@@ -1,16 +1,145 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**arulmozhi302-wq/arulmozhi302-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Arulmozhi D
 
-Here are some ideas to get you started:
+### Senior Frontend Developer | React.js | JavaScript | WordPress
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building responsive websites & modern web applications with 9.5+ years of experience.
+
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+Frontend+Developer;React.js+Developer;JavaScript+Enthusiast;WordPress+Expert;Always+Learning+New+Technologies&center=true&width=600&height=45">
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+✨ Senior Frontend Developer with **9.5+ years** of experience
+
+🚀 Successfully delivered **250+ websites & web applications**
+
+⚛️ Currently enhancing skills in **React.js & MERN Stack**
+
+🎨 Passionate about creating **responsive, pixel-perfect user experiences**
+
+🌱 Always exploring modern frontend technologies and AI-powered development
+
+📍 Chennai, India
+
+---
+
+## 💼 Experience
+
+### Senior Software Engineer
+
+**Notion Press Media Pvt Ltd**
+
+**Oct 2016 - Present**
+
+- ✅ Delivered and maintained 250+ websites
+- ✅ Responsive UI Development
+- ✅ WordPress Development
+- ✅ Performance Optimization
+- ✅ Deployment & Production Support
+- ✅ SEO & Sitemap Management
+
+---
+
+## 🚀 Featured Projects
+
+📚 Notion Press Platform
+
+👨‍💼 Author Relationship Portal (ARM)
+
+🛒 Online Store Platform
+
+🎪 Book Fair Platform
+
+📝 ZournalHQ (React)
+
+🏢 Initium Partners (React)
+
+---
+
+# 🚀 Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### CMS
+
+<p>
+<img src="https://skillicons.dev/icons?i=wordpress" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
+
+---
+
+# 🤖 AI Tools
+
+- ChatGPT
+- Claude
+- Cursor AI
+- V0
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🤝 Connect with Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+</p>
+
+📧 arulmozhi302@gmail.com
+
+📍 Chennai, Tamil Nadu
+
+---
+
+# 💡 Quote
+
+> "Great user experiences are built with attention to detail, performance, and clean code."
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile ⭐
+
+Open to Frontend & React.js Opportunities 🚀
+
+</div>
