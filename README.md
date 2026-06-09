@@ -98,27 +98,15 @@ Building responsive websites & modern web applications with 9.5+ years of experi
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=arulmozhi302-wq&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arulmozhi302-wq&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 # 🤝 Connect with Me
 
 <p align="left">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/arul-mozhi-a4239460/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/arulmozhi302-wq">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
